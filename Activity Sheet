@@ -1,6 +1,6 @@
-S.No      Name           Task                             Deadline
+S.No      Name           Task                             Status            Deadline
 
-1.        John           Create Web Template              October 2, 2022
-2.        Michelle       Design Website on WordPress      October 25, 2022
-3.        Tom            Maintain the Source Codes        October 30, 2022
-4.        Salman         Review the Sales Document        October 29, 2022
+1.        John           Create Web Template              Pending           October 2, 2022
+2.        Michelle       Design Website on WordPress      In Progress       October 25, 2022
+3.        Tom            Maintain the Source Codes        Pending           October 30, 2022
+4.        Salman         Review the Sales Document        Pending           October 29, 2022
